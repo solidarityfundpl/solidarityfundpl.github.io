@@ -1,0 +1,2 @@
+# solidarityfundpl.github.io
+test
